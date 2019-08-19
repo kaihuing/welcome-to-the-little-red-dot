@@ -43,9 +43,9 @@ Installation and Packages required
 - To run the R codes on Jupyter notebook, type “conda install -c r r-essentials” on your terminal – it will install the R kernel and some important R packages (e.g. dplyr, ggplot2, etc.)
 
 Description of Files in Repository (see folder)
-1.	Original Datasets folder – Complete and original data sets used in the project 
+1.	Welcome to the Little Red Dot_Project Slide Deck.pdf – Slide deck reporting the project process, analysis and insights (in repository)
 
-2.	Welcome to the Little Red Dot_Project Slide Deck.pdf – Slide deck reporting the project process, analysis and insights 
+2.	Original Datasets folder – Complete and original data sets used in the project 
 3.	[1] Data Cleaning and Merging.ipynb – Codes used to create the final merged data set 
 4.	[2] Welcome to the Little Red Dot.ipynb – Data analysis and visualisations of general international arrivals trends 
 5.	[3] Regression Analysis & Conclusion.ipynb – Cross-sectional and fixed effects regression analysis and Conclusions
@@ -56,7 +56,6 @@ Description of Files in Repository (see folder)
 10.	gdp_per_capita.csv – Tidy data of GDP per capita in each country (2000-2018) 
 11.	sg_intl_arrivals.csv – Tidy data of international arrivals from in each country (2000-2018) 
 12.	sgp_dist_lang.csv – Tidy data of a country’s distance from Singapore and whether it shares a common language
-
 
 ## Acknowledgements 
 Thank you for your interest in my project. I hope you enjoy looking through the codes and slide deck in this repository. 
